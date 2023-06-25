@@ -5,11 +5,9 @@ export default function Hello() {
     <div>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
-              </button>
-            </form>
+             Hello World !
           </div>
-        </div>
-      </nav>
+       </nav>
     </div>
   );
 }
